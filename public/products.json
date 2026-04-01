@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds.",
+    "price": 29,
+    "billing": "/Mo",
+    "features": ["Unlimited AI generations", "50+ writing templates", "Grammar checker"],
+    "icon": "✍️",
+    "badge": "Best Seller",
+    "badgeColor": "#FFEDD5",
+    "badgeTextColor": "#F97316"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "description": "2000+ premium templates for social media, presentations, and marketing.",
+    "price": 49,
+    "billing": "/One-Time",
+    "features": ["2000+ templates", "Monthly updates", "Commercial license"],
+    "icon": "🎨",
+    "badge": "Popular",
+    "badgeColor": "#E0F2FE",
+    "badgeTextColor": "#0EA5E9"
+  },
+  {
+    "id": 3,
+    "name": "Premium Stock Assets",
+    "description": "Access millions of royalty-free photos, videos, and graphics.",
+    "price": 19,
+    "billing": "/Mo",
+    "features": ["12M+ assets", "Commercial use", "No attribution"],
+    "icon": "📷",
+    "badge": "New",
+    "badgeColor": "#DCFCE7",
+    "badgeTextColor": "#16A34A"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Automate repetitive tasks and streamline your workflow.",
+    "price": 79,
+    "billing": "/Mo",
+    "features": ["50+ automations", "API access", "Custom workflows"],
+    "icon": "🤖",
+    "badge": "Popular",
+    "badgeColor": "#E0F2FE",
+    "badgeTextColor": "#0EA5E9"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes and cover letters with easy steps.",
+    "price": 15,
+    "billing": "/One-Time",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "📄",
+    "badge": "New",
+    "badgeColor": "#DCFCE7",
+    "badgeTextColor": "#16A34A"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Content Kit",
+    "description": "Complete toolkit for creating engaging social media content.",
+    "price": 39,
+    "billing": "/Mo",
+    "features": ["5000+ assets", "Scheduler included", "Analytics dashboard"],
+    "icon": "📱",
+    "badge": "Best Seller",
+    "badgeColor": "#FFEDD5",
+    "badgeTextColor": "#F97316"
+  }
+]
